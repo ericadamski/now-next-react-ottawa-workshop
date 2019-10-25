@@ -5,7 +5,7 @@ import Link from "next/link";
 export default () => {
   return (
     <h1>
-      Profile{" "}
+      Profile
       <Link href="/">
         <Button>home</Button>
       </Link>

@@ -1,0 +1,18 @@
+{
+  "name": "now-next-react-ottawa-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ericadamski/now-next-react-ottawa-workshop.git",
+  "author": "Eric Adamski <er.adamski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
+  }
+}
